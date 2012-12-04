@@ -1,0 +1,1 @@
+This code was working version for opengeo demo. It consists of WNV cases from 1999-2011.
